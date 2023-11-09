@@ -1,5 +1,5 @@
 {
-  "name": "API-creation",
+  "name": "Express.js",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/API-creation.git"
+    "url": "git+https://github.com/acciojob/Express.js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/API-creation/issues"
+    "url": "https://github.com/acciojob/Express.js/issues"
   },
-  "homepage": "https://github.com/acciojob/API-creation#readme",
+  "homepage": "https://github.com/acciojob/Express.js#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
